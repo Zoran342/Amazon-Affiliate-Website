@@ -126,11 +126,11 @@ p {
 }
 
 .product-grid .product-card {
-  width: 70%;
-  margin-bottom: 80px;
+  width: 40%;
+  height: 30%;
   filter: drop-shadow(0 30px 20px #0009);
   background-color: #EEEEE6;
-  padding: 20px;
+  padding: 50px;
   border-radius: 20px;
 }
 
